@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://example.com/</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/schedule/</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/region/</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/place/</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/month/</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/reviews/</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/guide/</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/faq/</loc>
+  </url>
+
+  <url>
+    <loc>https://example.com/about/</loc>
+  </url>
+
+</urlset>
