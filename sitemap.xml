@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
-  <!-- =================
-       메인 & 허브 페이지
-  ================= -->
+  <!-- =========================
+       메인 & 핵심 허브
+  ========================= -->
 
   <url>
     <loc>https://weddingfair.workers.dev/</loc>
@@ -37,6 +36,12 @@
   </url>
 
   <url>
+    <loc>https://weddingfair.workers.dev/reviews/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
     <loc>https://weddingfair.workers.dev/faq/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -48,9 +53,9 @@
     <priority>0.6</priority>
   </url>
 
-  <!-- =================
+  <!-- =========================
        지역 상세 페이지
-  ================= -->
+  ========================= -->
 
   <url>
     <loc>https://weddingfair.workers.dev/region/seoul/</loc>
@@ -67,7 +72,7 @@
   <url>
     <loc>https://weddingfair.workers.dev/region/incheon/</loc>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
   </url>
 
   <url>
@@ -76,9 +81,27 @@
     <priority>0.7</priority>
   </url>
 
-  <!-- =================
+  <url>
+    <loc>https://weddingfair.workers.dev/region/changwon/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://weddingfair.workers.dev/region/cheongju/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://weddingfair.workers.dev/region/anyang/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- =========================
        장소 상세 페이지
-  ================= -->
+  ========================= -->
 
   <url>
     <loc>https://weddingfair.workers.dev/place/coex/</loc>
@@ -104,9 +127,21 @@
     <priority>0.7</priority>
   </url>
 
-  <!-- =================
-       월별 상세 페이지 (미래 기준)
-  ================= -->
+  <url>
+    <loc>https://weddingfair.workers.dev/place/the-hyundai/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://weddingfair.workers.dev/place/walkerhill/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- =========================
+       월별 페이지 (시즌성)
+  ========================= -->
 
   <url>
     <loc>https://weddingfair.workers.dev/month/2026-01/</loc>
@@ -124,6 +159,34 @@
     <loc>https://weddingfair.workers.dev/month/2026-03/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://weddingfair.workers.dev/month/2026-11/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://weddingfair.workers.dev/month/2026-12/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- =========================
+       후기 상세 페이지
+  ========================= -->
+
+  <url>
+    <loc>https://weddingfair.workers.dev/reviews/coex/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://weddingfair.workers.dev/reviews/seoul/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
   </url>
 
 </urlset>
